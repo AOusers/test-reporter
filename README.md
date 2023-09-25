@@ -315,6 +315,7 @@ Unfortunately, there are some known issues and limitations caused by GitHub API:
   workflows are running for the same SHA. Thanks to this GitHub "feature" it's possible your test report will appear in an unexpected place in GitHub UI.
   For more information, see [#67](https://github.com/dorny/test-reporter/issues/67).
 
+
 ## See also
 - [paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch, or pushed commits
 
